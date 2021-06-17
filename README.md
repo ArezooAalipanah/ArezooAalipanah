@@ -17,6 +17,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arezooaalipanah)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[youtube]: https://www.youtube.com/watch?v=ECuqb5Tv9qI
+[youtube]: https://www.youtube.com/channel/UCHZdk-1ndTRgy558uhDWJsQ
 [linkedin]: https://www.linkedin.com/in/arezoo-alipanah
 
