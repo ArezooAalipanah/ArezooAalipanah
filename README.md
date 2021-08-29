@@ -1,4 +1,4 @@
-### Hello there! I'm Arezoo:) 👋
+### Hello there! I'm Arezoo ^_^
 
 ## I'm a Learner, Researcher, Reader and a Moutain Climer !!
 
@@ -23,4 +23,4 @@
 
 [youtube]: https://www.youtube.com/channel/UCHZdk-1ndTRgy558uhDWJsQ
 [linkedin]: https://www.linkedin.com/in/arezoo-alipanah
-[Gmail]: https://www.arezoo.alip@gmail.com
+[Gmail]: mailto://www.arezoo.alip@gmail.com
