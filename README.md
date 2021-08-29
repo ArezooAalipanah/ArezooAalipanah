@@ -23,4 +23,4 @@
 
 [youtube]: https://www.youtube.com/channel/UCHZdk-1ndTRgy558uhDWJsQ
 [linkedin]: https://www.linkedin.com/in/arezoo-alipanah
-[Gmail]: mailto://www.arezoo.alip@gmail.com
+[Gmail]: mailto:www.arezoo.alip@gmail.com
