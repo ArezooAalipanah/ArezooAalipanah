@@ -15,7 +15,7 @@
 
 [<img align="left" alt="Arezoo Al | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Arezoo Al | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Arezoo Al | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
+[<img align="left" alt="Arezoo Al | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][Gmail]
 
 ---
 ### GitHub Stats:
@@ -23,4 +23,4 @@
 
 [youtube]: https://www.youtube.com/channel/UCHZdk-1ndTRgy558uhDWJsQ
 [linkedin]: https://www.linkedin.com/in/arezoo-alipanah
-[linkedin]: https://www.arezoo.alip@gmail.com
+[Gmail]: https://www.arezoo.alip@gmail.com
