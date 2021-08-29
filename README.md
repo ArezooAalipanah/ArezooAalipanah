@@ -14,8 +14,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 ---
 ### GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arezooaalipanah)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arezooaalipanah&theme=chartreuse-dark&show_icons=true)
 
 [youtube]: https://www.youtube.com/channel/UCHZdk-1ndTRgy558uhDWJsQ
 [linkedin]: https://www.linkedin.com/in/arezoo-alipanah
