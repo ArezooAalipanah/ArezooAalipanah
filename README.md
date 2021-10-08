@@ -21,6 +21,6 @@
 ### GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arezooaalipanah&theme=chartreuse-dark&show_icons=true)
 
-[youtube]: https://www.youtube.com/channel/UCHZdk-1ndTRgy558uhDWJsQ
+[youtube]: https://www.youtube.com/channel/UCGfcLfSA02ymEyr0ei5m89g
 [linkedin]: https://www.linkedin.com/in/arezoo-alipanah
 [Gmail]: mailto:arezoo.alip@gmail.com
