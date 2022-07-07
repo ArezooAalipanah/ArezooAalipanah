@@ -1,4 +1,4 @@
-###Hi, I am Arezoo :)
+### Hi, I am Arezoo :)
 
 ##  I'm an ardent researcher, an eager learner, a devoted tutor, a passionate reader, and a mountain climber !!
 
@@ -20,13 +20,13 @@ currently, I am working on motion planning via a very restricted input and deep 
 
 
 - 🥅 2021 Goals:
- finish my MSc
- learn new areas I haven't worked before
- learn a new coding language
- start my tutoring website/ youtube channel
- study 60 books
- making my first complete game 
- have a big change in my life :)
+- finish my MSc
+- learn new areas I haven't worked before
+- learn a new coding language
+- start my tutoring website/ youtube channel
+- study 60 books
+- making my first complete game 
+- have a big change in my life :)
 ---
 
 ### Connect with me:
