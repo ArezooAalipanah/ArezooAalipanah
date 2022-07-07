@@ -1,14 +1,32 @@
-### Hello there! I'm Arezoo ^_^
+###Hi, I am Arezoo :)
 
-## I'm a Learner, Researcher, Reader and a Moutain Climer !!
+##  I'm an ardent researcher, an eager learner, a devoted tutor, a passionate reader, and a mountain climber !!
 
-- 👀 I’m interested in learning new things!:)
+- 👀  I am also a noob game dev hobbyist! :)
 
-- 🌱 I’m currently learning RL, JavaScript, ...(actually, it's a long list!)
 
-- ⚡ About me ^-^: I try to be my best version, I love to read books, mostly novels and self improvements.I love to dive into the world of science and fiction. Also I love moutain climbing. And I am quite active on goodreads trying to find new books to reed.
+- 👩🏻‍💻 My main specialties are robotics and using reinforcement learning
+currently, I am working on motion planning via a very restricted input and deep reinforcement learning
 
-- 🥅 2021 Goals: Be more active on github and contribute more. Have a big change in my life:)
+- ⚡ About me ^-^: 
+* A 25-year-old girl who loves escaping from reality by diving into books.
+* Always criticizes herself for not working hard enough.
+* Never gets tired of coding and running codes and debugging. 
+* Started programming when she was 17 for the computer olympiad and has loved facing new challenges and solving new puzzles ever since. 
+* Tries to face every difficult problem as if they are games and believes she is the main character of her own game. 
+* Has a vision that she will put her mark on the earth and would be able to help as many people as she can.
+* Climbing mount Everest and working in Barnes and Nobles are just 2 items on her 100-item bucket list.
+
+
+
+- 🥅 2021 Goals:
+ finish my MSc
+ learn new areas I haven't worked before
+ learn a new coding language
+ start my tutoring website/ youtube channel
+ study 60 books
+ making my first complete game 
+ have a big change in my life :)
 ---
 
 ### Connect with me:
