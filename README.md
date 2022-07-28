@@ -19,7 +19,7 @@ currently, I am working on motion planning via a very restricted input and deep 
 
 
 
-- 🥅 2021 Goals:
+- 🥅 2022 Goals:
 - finish my MSc
 - learn new areas I haven't worked before
 - learn a new coding language
