@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arezoo 👋</h1>
 
 <p align="center">
-  🎓 Reinforcement Learning Researcher | 🤖 Robotics Enthusiast | 📚 Lifelong Learner <br/>
+  🎓 Reinforcement Learning Researcher | 🤖 Robotics Engineer | 📚 Lifelong Learner <br/>
   💡 Exploring how AI can better understand, mimic, and collaborate with humans
 </p>
 
@@ -24,7 +24,7 @@
 ### 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JAX](https://img.shields.io/badge/-JAX-333?style=flat&logo=google)
+![JAX](https://img.shields.io/badge/-JAX-333?style=flat&logo=google) (beginner)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
