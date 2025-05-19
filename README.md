@@ -24,7 +24,7 @@
 ### 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JAX](https://img.shields.io/badge/-JAX-333?style=flat&logo=google) (beginner)
+![JAX](https://img.shields.io/badge/-JAX-333?style=flat&logo=google) 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
