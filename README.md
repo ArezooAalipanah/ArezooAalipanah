@@ -1,32 +1,73 @@
-### Hi, I am Arezoo :)
+<h1 align="center">Hi, I'm Arezoo 👋</h1>
 
-##  I'm an ardent researcher, an eager learner, a devoted tutor, a passionate reader, and a mountain climber !!
-
-- 👀  I am also a noob game dev hobbyist! :)
-
-
-- 👩🏻‍💻 My main specialties are robotics and using reinforcement learning
-currently, I am working on motion planning via a very restricted input and deep reinforcement learning
-
-- ⚡ About me ^-^: 
-* loves escaping from reality by diving into books.
-* Always criticizes herself for not working hard enough.
-* Never gets tired of coding and running codes and debugging. 
-* Started programming when she was 17 for the computer olympiad and has loved facing new challenges and solving new puzzles ever since. 
-* Tries to face every difficult problem as if they are games and believes she is the main character of her own game. 
-* Has a vision that she will put her mark on the earth and would be able to help as many people as she can.
-* Climbing mount Everest and working in Barnes and Nobles are just 2 items on her 100-item bucket list.
-
-### Connect with me:
-
-[<img align="left" alt="Arezoo Al | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Arezoo Al | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Arezoo Al | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][Gmail]
+<p align="center">
+  🎓 Reinforcement Learning Researcher | 🤖 Robotics Enthusiast | 📚 Lifelong Learner <br/>
+  💡 Exploring how AI can better understand, mimic, and collaborate with humans
+</p>
 
 ---
-### GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arezooaalipanah&theme=chartreuse-dark&show_icons=true)
 
-[youtube]: https://www.youtube.com/channel/UCGfcLfSA02ymEyr0ei5m89g
-[linkedin]: https://www.linkedin.com/in/arezoo-alipanah
-[Gmail]: mailto:arezoo.alip@gmail.com
+### 🔬 About Me
+
+- 🌱 I'm a Master's student at the University of Waterloo, specializing in **Inverse Reinforcement Learning** and **Adversarial Machine Learning**.
+- 💻 My research focuses on:
+  - Learning reward functions from demonstrations
+  - Designing adversarial policies to stress-test AI systems
+  - Improving robustness and generalization in RL agents
+- 📚 I've also been a **Teaching Assistant** for ML and algorithms courses and love explaining tough concepts with clarity.
+- 🧠 Interested in fairness, interpretability, and safety in AI.
+- 🎮 Game dev hobbyist in my spare time — because learning should also be fun.
+- 🧗‍♀️ Climber, reader, and storyteller.
+
+---
+
+### 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JAX](https://img.shields.io/badge/-JAX-333?style=flat&logo=google)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arezooaalipanah&show_icons=true&theme=tokyonight" alt="Arezoo's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arezooaalipanah&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🧭 Goals & Values
+
+- I believe AI should help **people**, not replace them.
+- I treat each research problem like a game—every bug, a boss fight. ⚔️
+- My bucket list includes:
+  - Climbing Mount Everest
+  - Working at a bookstore
+  - Mentoring future researchers
+
+---
+
+### 🌍 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/arezoo-alipanah">
+    <img src="https://img.shields.io/badge/LinkedIn-arezoo--alipanah-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:arezoo.alip@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-arezoo.alip@gmail.com-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCGfcLfSA02ymEyr0ei5m89g">
+    <img src="https://img.shields.io/badge/YouTube-Arezoo%20Al-red?style=flat&logo=youtube" />
+  </a>
+</p>
+
+---
+
+> “The best way to understand the future is to build it — one step, one bugfix, and one insight at a time.”
+
